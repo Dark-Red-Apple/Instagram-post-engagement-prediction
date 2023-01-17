@@ -10,10 +10,10 @@ Instagram Post engagment rate Predictor by using only the caption.
 
 ## What's included
 
-The datset used is by <a href="https://sites.google.com/site/sbkimcv/dataset/instagram-influencer-dataset?authuser=0#h.m325vwh142wd"><strong>Seungbae Kim et al.</strong></a> 
+The datset used is by <a href="https://sites.google.com/site/sbkimcv/dataset/instagram-influencer-dataset?authuser=0#h.m325vwh142wd"><strong>Seungbae Kim et al.</strong></a> .
 
 
-The codes should be executed in this orders:
+The codes should be executed in this order:
 
 
 
